@@ -1,0 +1,8 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\bin\Debug\LongToIntConvert.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\bin\Debug\LongToIntConvert.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\bin\Debug\LongToIntConvert.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\obj\Debug\LongToIntConvert.Form1.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\obj\Debug\LongToIntConvert.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\obj\Debug\LongToIntConvert.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\obj\Debug\LongToIntConvert.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\LongToIntConvert\LongToIntConvert\obj\Debug\LongToIntConvert.pdb

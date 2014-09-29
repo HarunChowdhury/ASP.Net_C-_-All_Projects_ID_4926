@@ -1,0 +1,8 @@
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe.config
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.Form1.resources
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.Properties.Resources.resources
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.exe
+C:\Users\PC21\Desktop\19 Sep 2014\Prac\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.pdb

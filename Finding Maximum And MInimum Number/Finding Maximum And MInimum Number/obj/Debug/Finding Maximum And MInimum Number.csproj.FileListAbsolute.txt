@@ -1,0 +1,8 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\bin\Debug\Finding Maximum And MInimum Number.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\bin\Debug\Finding Maximum And MInimum Number.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\bin\Debug\Finding Maximum And MInimum Number.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\obj\Debug\Finding_Maximum_And_MInimum_Number.Form1.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\obj\Debug\Finding_Maximum_And_MInimum_Number.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\obj\Debug\Finding Maximum And MInimum Number.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\obj\Debug\Finding Maximum And MInimum Number.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Finding Maximum And MInimum Number\Finding Maximum And MInimum Number\obj\Debug\Finding Maximum And MInimum Number.pdb

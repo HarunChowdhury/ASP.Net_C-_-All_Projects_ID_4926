@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe.config
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.pdb
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.Form1.resources
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.exe
+C:\Users\PC21\Desktop\19.06.19 practice\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.pdb

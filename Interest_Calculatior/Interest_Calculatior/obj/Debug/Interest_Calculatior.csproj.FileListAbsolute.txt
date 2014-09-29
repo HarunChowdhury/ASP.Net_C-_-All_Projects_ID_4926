@@ -1,0 +1,8 @@
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\bin\Debug\Interest_Calculatior.exe.config
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\obj\Debug\Interest_Calculatior.Form1.resources
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\obj\Debug\Interest_Calculatior.Properties.Resources.resources
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\obj\Debug\Interest_Calculatior.csproj.GenerateResource.Cache
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\bin\Debug\Interest_Calculatior.exe
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\bin\Debug\Interest_Calculatior.pdb
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\obj\Debug\Interest_Calculatior.exe
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\Interest_Calculatior\Interest_Calculatior\obj\Debug\Interest_Calculatior.pdb

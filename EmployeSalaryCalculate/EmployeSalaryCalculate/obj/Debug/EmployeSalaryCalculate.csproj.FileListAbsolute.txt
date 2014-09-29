@@ -1,0 +1,8 @@
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\bin\Debug\EmployeSalaryCalculate.exe.config
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\bin\Debug\EmployeSalaryCalculate.exe
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\bin\Debug\EmployeSalaryCalculate.pdb
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\obj\Debug\EmployeSalaryCalculate.Form1.resources
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\obj\Debug\EmployeSalaryCalculate.Properties.Resources.resources
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\obj\Debug\EmployeSalaryCalculate.csproj.GenerateResource.Cache
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\obj\Debug\EmployeSalaryCalculate.exe
+I:\HW\EmployeSalaryCalculate\EmployeSalaryCalculate\obj\Debug\EmployeSalaryCalculate.pdb

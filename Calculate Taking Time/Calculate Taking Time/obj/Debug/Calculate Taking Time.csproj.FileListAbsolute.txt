@@ -1,0 +1,9 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\bin\Debug\Calculate Taking Time.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\bin\Debug\Calculate Taking Time.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\bin\Debug\Calculate Taking Time.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\obj\Debug\Calculate_Taking_Time.Form1.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\obj\Debug\Calculate_Taking_Time.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\obj\Debug\Calculate Taking Time.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\obj\Debug\Calculate Taking Time.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\obj\Debug\Calculate Taking Time.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\Calculate Taking Time\Calculate Taking Time\obj\Debug\Calculate Taking Time.csprojResolveAssemblyReference.cache

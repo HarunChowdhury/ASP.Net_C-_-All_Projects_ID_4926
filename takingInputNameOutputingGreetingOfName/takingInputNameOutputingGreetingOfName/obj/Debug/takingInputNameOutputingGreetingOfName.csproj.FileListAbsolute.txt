@@ -1,0 +1,9 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\bin\Debug\takingInputNameOutputingGreetingOfName.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\bin\Debug\takingInputNameOutputingGreetingOfName.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\bin\Debug\takingInputNameOutputingGreetingOfName.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\obj\Debug\takingInputNameOutputingGreetingOfName.csprojResolveAssemblyReference.cache
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\obj\Debug\takingInputNameOutputingGreetingOfName.Form1.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\obj\Debug\takingInputNameOutputingGreetingOfName.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\obj\Debug\takingInputNameOutputingGreetingOfName.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\obj\Debug\takingInputNameOutputingGreetingOfName.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\takingInputNameOutputingGreetingOfName\takingInputNameOutputingGreetingOfName\obj\Debug\takingInputNameOutputingGreetingOfName.pdb

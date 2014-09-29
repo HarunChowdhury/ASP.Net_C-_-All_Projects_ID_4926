@@ -1,0 +1,8 @@
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\bin\Debug\ItemAddWithListView.exe.config
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\bin\Debug\ItemAddWithListView.exe
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\bin\Debug\ItemAddWithListView.pdb
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\obj\Debug\ItemAddWithListView.Form1.resources
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\obj\Debug\ItemAddWithListView.Properties.Resources.resources
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\obj\Debug\ItemAddWithListView.csproj.GenerateResource.Cache
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\obj\Debug\ItemAddWithListView.exe
+G:\2014 C#\13 Sep 2014\HW 01 Day for Home\ItemAddWithListView\ItemAddWithListView\obj\Debug\ItemAddWithListView.pdb

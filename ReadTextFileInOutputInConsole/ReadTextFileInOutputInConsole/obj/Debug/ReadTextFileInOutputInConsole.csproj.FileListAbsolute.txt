@@ -1,0 +1,5 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\ReadTextFileInOutputInConsole\ReadTextFileInOutputInConsole\bin\Debug\ReadTextFileInOutputInConsole.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\ReadTextFileInOutputInConsole\ReadTextFileInOutputInConsole\bin\Debug\ReadTextFileInOutputInConsole.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\ReadTextFileInOutputInConsole\ReadTextFileInOutputInConsole\bin\Debug\ReadTextFileInOutputInConsole.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\ReadTextFileInOutputInConsole\ReadTextFileInOutputInConsole\obj\Debug\ReadTextFileInOutputInConsole.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\ReadTextFileInOutputInConsole\ReadTextFileInOutputInConsole\obj\Debug\ReadTextFileInOutputInConsole.pdb

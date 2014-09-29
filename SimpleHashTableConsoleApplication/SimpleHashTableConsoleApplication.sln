@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHashTableConsoleApplication", "SimpleHashTableConsoleApplication\SimpleHashTableConsoleApplication.csproj", "{789F4CCA-583E-4EAD-A63C-0EC670034403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789F4CCA-583E-4EAD-A63C-0EC670034403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789F4CCA-583E-4EAD-A63C-0EC670034403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789F4CCA-583E-4EAD-A63C-0EC670034403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789F4CCA-583E-4EAD-A63C-0EC670034403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\bin\Debug\Simple Dictionary Example.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\bin\Debug\Simple Dictionary Example.exe
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\bin\Debug\Simple Dictionary Example.pdb
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\obj\Debug\Simple_Dictionary_Example.DictionaryUI.resources
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\obj\Debug\Simple_Dictionary_Example.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\obj\Debug\Simple Dictionary Example.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\obj\Debug\Simple Dictionary Example.exe
+G:\BASIS OOP C# ASP.Net ,2014\19 Sep 2014\practice\Simple Dictionary Example\Simple Dictionary Example\obj\Debug\Simple Dictionary Example.pdb

@@ -1,0 +1,5 @@
+I:\HW\BringOutIndexOfSameNumberInArray\BringOutIndexOfSameNumberInArray\bin\Debug\BringOutIndexOfSameNumberInArray.exe.config
+I:\HW\BringOutIndexOfSameNumberInArray\BringOutIndexOfSameNumberInArray\bin\Debug\BringOutIndexOfSameNumberInArray.exe
+I:\HW\BringOutIndexOfSameNumberInArray\BringOutIndexOfSameNumberInArray\bin\Debug\BringOutIndexOfSameNumberInArray.pdb
+I:\HW\BringOutIndexOfSameNumberInArray\BringOutIndexOfSameNumberInArray\obj\Debug\BringOutIndexOfSameNumberInArray.exe
+I:\HW\BringOutIndexOfSameNumberInArray\BringOutIndexOfSameNumberInArray\obj\Debug\BringOutIndexOfSameNumberInArray.pdb

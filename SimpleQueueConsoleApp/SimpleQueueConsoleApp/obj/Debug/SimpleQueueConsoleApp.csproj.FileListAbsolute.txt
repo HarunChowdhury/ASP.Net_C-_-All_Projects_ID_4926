@@ -1,0 +1,5 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleQueueConsoleApp\SimpleQueueConsoleApp\bin\Debug\SimpleQueueConsoleApp.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleQueueConsoleApp\SimpleQueueConsoleApp\bin\Debug\SimpleQueueConsoleApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleQueueConsoleApp\SimpleQueueConsoleApp\bin\Debug\SimpleQueueConsoleApp.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleQueueConsoleApp\SimpleQueueConsoleApp\obj\Debug\SimpleQueueConsoleApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleQueueConsoleApp\SimpleQueueConsoleApp\obj\Debug\SimpleQueueConsoleApp.pdb

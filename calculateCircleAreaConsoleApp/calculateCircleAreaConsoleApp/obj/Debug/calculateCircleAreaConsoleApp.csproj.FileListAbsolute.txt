@@ -1,0 +1,5 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\calculateCircleAreaConsoleApp\calculateCircleAreaConsoleApp\bin\Debug\calculateCircleAreaConsoleApp.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\calculateCircleAreaConsoleApp\calculateCircleAreaConsoleApp\bin\Debug\calculateCircleAreaConsoleApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\calculateCircleAreaConsoleApp\calculateCircleAreaConsoleApp\bin\Debug\calculateCircleAreaConsoleApp.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\calculateCircleAreaConsoleApp\calculateCircleAreaConsoleApp\obj\Debug\calculateCircleAreaConsoleApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\calculateCircleAreaConsoleApp\calculateCircleAreaConsoleApp\obj\Debug\calculateCircleAreaConsoleApp.pdb

@@ -1,0 +1,2 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\ProductPriceWithItemNetBalanceShowUI\ProductPriceWithItemNetBalanceShowUI\bin\Debug\ProductPriceWithItemNetBalanceShowUI.exe.config
+D:\Practice\ProductPriceWithItemNetBalanceShowUI\ProductPriceWithItemNetBalanceShowUI\bin\Debug\ProductPriceWithItemNetBalanceShowUI.exe.config

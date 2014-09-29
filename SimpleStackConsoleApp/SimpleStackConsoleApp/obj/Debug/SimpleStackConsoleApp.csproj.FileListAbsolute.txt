@@ -1,0 +1,5 @@
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleStackConsoleApp\SimpleStackConsoleApp\bin\Debug\SimpleStackConsoleApp.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleStackConsoleApp\SimpleStackConsoleApp\bin\Debug\SimpleStackConsoleApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleStackConsoleApp\SimpleStackConsoleApp\bin\Debug\SimpleStackConsoleApp.pdb
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleStackConsoleApp\SimpleStackConsoleApp\obj\Debug\SimpleStackConsoleApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\16 Sep 2014\Practice\SimpleStackConsoleApp\SimpleStackConsoleApp\obj\Debug\SimpleStackConsoleApp.pdb
